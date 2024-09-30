@@ -1,4 +1,4 @@
-## Prazer, me chamo Arthur, estudande de programação em Engenharia de Software! 👋
+## Prazer, me chamo Arthur, estudante de programação em Engenharia de Software! 👋
 
 - 🔭 Procurando trabalho em desenvolvimento full-stack
 - 📚 Cursando em Engenharia de Software
